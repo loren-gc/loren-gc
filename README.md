@@ -3,6 +3,10 @@ I am a 6th-semester Computer Science student @ Universidade Federal de São Carl
 
 
 ## 🌐 Socials:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/loren.gc)&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Lorenzo Grippo Chiachio](https://www.linkedin.com/in/lorenzo-grippo-chiachio-b7a46732b/))&nbsp;&nbsp;&nbsp;&nbsp;[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/Lorenzo Grippo Chiachio](https://stackoverflow.com/users/31986006/lorenzo-grippo-chiachio))&nbsp;&nbsp;&nbsp;&nbsp;[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lorenzo.chiachio@estudante.ufscar.br)
+
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/loren.gc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Lorenzo Grippo Chiachio](https://www.linkedin.com/in/lorenzo-grippo-chiachio-b7a46732b/)) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/Lorenzo Grippo Chiachio](https://stackoverflow.com/users/31986006/lorenzo-grippo-chiachio)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lorenzo.chiachio@estudante.ufscar.br) 
 
 # 💻 Tech Stack:
