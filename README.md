@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me:
-I am a 6th-semester Computer Science student @ Universidade Federal de São Carlos - UFSCar. I'm currently involved in undergraduate research projects in partnership with Ericsson. <br>Some of my hobbies involve soccer⚽, cinema🎬, astronomy🚀, and cars🏎️.
+I am a 7th-semester Computer Science student @ Universidade Federal de São Carlos - UFSCar. I'm currently involved in undergraduate research projects in partnership with Ericsson. <br>Some of my hobbies involve soccer⚽, cinema🎬, astronomy🚀, and cars🏎️.
 
 # 💻 Tech Stack:
 **Languages:**
